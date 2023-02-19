@@ -65,7 +65,7 @@ body{
 }
 .error{
     animation: shake 0.1s linear 3;
-    border-color: red;
+    border-color: red !important;
     
 }
 
