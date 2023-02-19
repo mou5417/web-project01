@@ -66,10 +66,9 @@ body{
 .error{
     animation: shake 0.1s linear 3;
     
+    
 }
-.error1{
-    border-color: red;
-}
+
 @keyframes shake {
     0%{
         transform: translate(0);
